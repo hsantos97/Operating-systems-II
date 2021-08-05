@@ -1,0 +1,5 @@
+0000000000000000 T adiciona
+
+O T em adiciona nos diz que este símbolo pertence à seção texto (seção do código) 
+e que o símbolo está resolvido. 
+.section .text informa ao gcc que as proximas linhas seram adicionadas na seção de código.
